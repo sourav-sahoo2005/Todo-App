@@ -22,7 +22,7 @@ plusicon.addEventListener('click', () => {
   deleteBtn.addEventListener("click", () => {
     y.remove();
   });
-
+//thi si my to do app
 
     // const deleteTodo = y.getElementById('delete')
     // const todolist = document.getElementById('todo')
